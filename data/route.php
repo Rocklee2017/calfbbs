@@ -7,7 +7,7 @@
   'CONFIG_STATUS' => true,
   'SUFFIX' => '.html',
   'SUFFIX_STATUS' => true,
-  'IDENX_SUFFIX' => true,
+  'IDENX_SUFFIX' => false,
   'TPL' => 'tpl',
   'TPL_APP' => 
   array (
